@@ -50,10 +50,11 @@ Follow these steps to set up CareerMateBot on your system.
 ### Step 1: Create a Discord Server
 1. Open Discord and create a server named “CareerMate Server.”
 2. Add a channel called `#college-community`.
+3. Add your email in discord and verified First.
 
 ### Step 2: Create the Bot in Discord Developer Portal
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
-2. Click “New Application,” name it “CareerMateBot,” and click “Create.”
+2. Click “New Application,” name it “CareerMateBot,” and click “Create.”  
 3. Go to the “Bot” tab, click “Add Bot,” and copy the bot token .
    - **Note**: Keep this token private!
 
